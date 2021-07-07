@@ -1,0 +1,11 @@
+{
+  "name": "git-lfs-test",
+  "version": "1.0.0",
+  "repository": "https://github.com/viceice-tests/git-lfs-test.git",
+  "author": "Michael Kriese <michael.kriese@visualon.de>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "is-buffer": "1.1.0"
+  }
+}
